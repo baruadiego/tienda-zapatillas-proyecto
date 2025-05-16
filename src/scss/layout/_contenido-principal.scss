@@ -1,0 +1,153 @@
+@use 'base/variables' as v;
+@use 'base/mixins' as m;
+
+.contenido-principal{
+    @include m.contenedor;
+    margin-bottom: 4rem;
+    display: grid;
+    min-height: 60vh;
+    .no-resultados{
+        width: 50rem;
+        font-size: 1.6rem;
+        color: rgb(58, 58, 58);
+        margin: 0;
+    }
+    
+    aside{
+        max-height: fit-content;
+        height: fit-content;
+        form{
+            display: block;
+            margin-bottom: 1.4rem;
+            background-color: v.$blanco;
+        }
+
+        h4{
+            text-align: center;
+            font-size: 1.5rem;
+            margin: auto;
+            margin-bottom: 1rem;
+            padding: 1.4rem;
+            border-bottom: 0.5px solid rgb(206, 206, 206);
+        }
+        
+        label{
+            font-size: 1.4rem;
+            color: rgb(97, 97, 97);
+            padding-left: 1.4rem;
+            display: inline-block;
+            input{
+                margin-right: 1rem;
+                margin-bottom: 1rem;
+            }
+            
+        }
+    }
+
+    #productos{
+        
+        @include m.tablet{
+            @include m.grid(2, 1.5rem);
+        }
+
+        @include m.desktop{
+            @include m.grid(4, 1.5rem);
+        }
+        
+        .producto{
+            border-radius: .5rem;
+            background-color: v.$blanco;
+            margin: 1.4rem 1rem;
+            padding: 1rem;
+            max-height: fit-content;
+            &:hover{
+                box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15);
+                button{
+                    background-color: black;
+                    color: white;
+                }
+            }
+
+            button{
+                width: 100%;
+                background-color: white;
+                color: white;
+                padding: 1rem 2rem;
+                border: none;
+                border-radius: .5rem;
+                font-size: 1.5rem;
+                transition: background-color 0.3s ease;
+                &:hover{
+                    background-color: v.$amarillo;
+                    cursor: pointer;
+                }
+            }
+        }
+        .detalle{
+            padding: 1rem 1rem  0 1rem;
+            
+            .marca{
+                height: 2.5rem;
+                width: auto;
+            }
+            p{
+                margin: .5rem 0;
+                font-size: 1.8rem;
+            }
+            .nombre{
+                display: -webkit-box;
+                -webkit-box-orient: vertical;
+                -webkit-line-clamp: 2;
+                color:rgb(94, 94, 94);
+                max-height: 5rem;
+                overflow: hidden;
+                text-overflow: ellipsis;
+            }
+            .precio, .cuotas, .envio{
+                font-weight: 700;
+            }
+            .cuotas{
+                font-size: 1.4rem;
+            }
+            span{
+                font-weight: 400;
+            }
+            .envio{
+                font-size: 1.5rem;
+                color: rgb(223, 134, 0);
+                
+            }
+            .oculto{
+                visibility: hidden;
+            }
+        }
+    }
+
+    @include m.tablet{
+        grid-template-columns: 2fr 5fr;
+        gap: 1rem;
+        #productos{
+            .producto{
+                margin: 0;
+            }
+            .aside{
+                margin: 0;
+            }
+        }
+
+        aside{
+            h4{
+                text-align: left;
+            }
+            label{
+                display: block;
+            }
+        }
+    }
+
+    @include m.desktop{
+        grid-template-columns: 1fr 5fr;
+        gap: 1rem;
+    }
+
+}

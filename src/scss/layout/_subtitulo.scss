@@ -1,0 +1,27 @@
+@use 'base/variables' as v;
+@use 'base/mixins' as m;
+
+#subtitulo{
+    @include m.contenedor;
+    margin-top: 22rem;
+    margin-bottom: 0;
+    @include m.grid(2, 1.5rem);
+    grid-template-columns: 1fr 5fr;
+
+    @include m.tablet{
+        margin-top: 14rem;
+    }
+    p{
+        margin: 0  0 1rem .5rem;
+        font-size: 1.4rem;
+    }
+
+    .ordenar{
+        justify-self: end;
+        margin-bottom: 1rem;
+        font-size: 1.4rem;
+    }
+    option:hover {
+        background-color: #ffffff;
+    }
+}

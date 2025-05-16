@@ -1,0 +1,14 @@
+.titulo{
+    text-align: center;
+    color: green;
+}
+
+.imagen{
+    height: 100px;
+    width: auto;
+}
+
+.imagen:hover{
+    height: 200px;
+    width: auto;
+}

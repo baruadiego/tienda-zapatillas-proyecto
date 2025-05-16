@@ -1,0 +1,97 @@
+@use 'base/variables' as v;
+@use 'base/mixins' as m;
+.detalle-producto{
+    @include m.contenedor;
+    min-height: 82rem;
+    margin-top: 10rem;
+    margin-bottom: 1rem;
+
+    .informacion{
+        border: solid 1px rgb(206, 206, 206);
+        min-height: fit-content;
+        padding: 0 1rem;
+        box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15);
+        @include m.tablet{
+            margin-bottom: 21.5rem;
+        }
+    }
+
+    .seleccionable{
+        @include m.grid(2, 1rem);
+        grid-template-columns: 1fr 1fr;
+        margin-bottom: 1.5rem;
+        font-size: 1.8rem;
+    }
+
+    input::placeholder{
+        color: rgb(0, 0, 0);
+    }
+
+    @include m.tablet{
+        
+        @include m.grid(2, 1.4rem);
+        grid-template-columns: 2fr 1fr;
+        margin-top: 0rem;
+        margin-bottom: 0rem;
+        .marca-producto{
+            margin-top: 14rem;
+        }
+        .imagen-producto{
+            max-height: 80rem;
+            width: auto;
+        }
+    }
+
+    img {
+        mix-blend-mode: multiply;
+    }
+    
+    .marca-producto{
+        height: 8rem;
+        width: auto;
+    }
+
+    .nombre-producto{
+        font-size: 2.4rem;
+        color: rgb(0, 0, 0);
+        border-bottom: solid 1px rgb(206, 206, 206);
+    }
+
+    .cuotas-producto{
+        font-size: 1.8rem;
+        color: rgb(0, 0, 0);
+        margin-top: 0;
+    }
+
+    span{
+        color: green;
+    }
+
+    .precio-producto{
+        font-size: 4rem;
+        color: rgb(0, 0, 0);
+        font-weight: bold;
+        margin: 0;
+    }
+
+    button{
+        background-color: v.$negro;
+        color: v.$blanco;
+        font-size: 1.8rem;
+        padding: 1rem 3rem;
+        border: none;
+        width: 100%;
+        margin-bottom: 2rem;
+        border-radius: .3rem;
+        transition: background-color 0.5s ease;
+        
+        &:hover {
+            cursor: pointer;
+            background-color: rgb(252, 201, 35);
+        }
+    }
+
+    #total{
+        font-size: 1.8rem;
+    }
+}

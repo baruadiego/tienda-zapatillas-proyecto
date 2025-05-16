@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1513655-1200-auto?v=638587352338970000&width=1200&height=auto&aspect=true",
+        "marca": "Puma",
+        "nombre": "Zapatillas Puma CA Pro Classic ADP Niños",
+        "precio": 84999,
+        "cuotas": 3,
+        "genero": "Niño",
+        "envioGratis": false
+    },
+    {
+        "id": 3,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1512145-1200-auto?v=638580456548300000&width=1200&height=auto&aspect=true",
+        "marca": "Nike",
+        "nombre": "Zapatillas Nike Sportswear Air Force 1 LE Niños",
+        "precio": 167999,
+        "cuotas": 3,
+        "genero": "Niño",
+        "envioGratis": false
+    },
+    {
+        "id": 4,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1510867-1200-auto?v=638572479172670000&width=1200&height=auto&aspect=true",
+        "marca": "Puma",
+        "nombre": "Zapatillas Puma Slipstream Bball AC+PS ADP Niños",
+        "precio": 87999,
+        "cuotas": 3,
+        "genero": "Niño",
+        "envioGratis": false
+    },
+    {
+        "id": 5,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1510645-1200-auto?v=638569019749230000&width=1200&height=auto&aspect=true",
+        "marca": "Nike",
+        "nombre": "Zapatillas Nike Air Force 1 SE de Niño",
+        "precio": 179999,
+        "cuotas": 3,
+        "genero": "Niño",
+        "envioGratis": true
+    },
+    {
+        "id": 6,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1509766-1200-auto?v=638563938938970000&width=1200&height=auto&aspect=true",
+        "marca": "Nike",
+        "nombre": "Zapatillas Nike Air Force 1 LV8 4 (GS) de Niño",
+        "precio": 179999,
+        "cuotas": 3,
+        "genero": "Niño",
+        "envioGratis": true
+    },
+    {
+        "id": 7,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1508428-1200-auto?v=638556897953170000&width=1200&height=auto&aspect=true",
+        "marca": "Adidas",
+        "nombre": "Zapatillas Adidas Multix de Niño",
+        "precio": 97999,
+        "cuotas": 3,
+        "genero": "Niño",
+        "envioGratis": false
+    },
+    {
+        "id": 8,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1508369-1200-auto?v=638556152101000000&width=1200&height=auto&aspect=true",
+        "marca": "Jordan",
+        "nombre": "Zapatillas Jordan Air 1 Low SE Craft de Niño",
+        "precio": 209999,
+        "cuotas": 6,
+        "genero": "Niño",
+        "envioGratis": true
+    },
+    {
+        "id": 9,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1449870-1200-auto?v=638524913503130000&width=1200&height=auto&aspect=true",
+        "marca": "Puma",
+        "nombre": "Zapatillas Puma Slipstream de Niño",
+        "precio": 79999,
+        "cuotas": 3,
+        "genero": "Niño",
+        "envioGratis": false
+    },
+    {
+        "id": 10,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1396629-1200-auto?v=638524929512570000&width=1200&height=auto&aspect=true",
+        "marca": "Puma",
+        "nombre": "Zapatillas Puma Suede Classic XXI de Niños",
+        "precio": 64999,
+        "cuotas": 3,
+        "genero": "Niño",
+        "envioGratis": false
+    },
+    {
+        "id": 11,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1384587-1200-auto?v=638491353249100000&width=1200&height=auto&aspect=true",
+        "marca": "Puma",
+        "nombre": "Zapatillas Puma Suede Classic XXI de Bebé",
+        "precio": 59999,
+        "cuotas": 3,
+        "genero": "Niño",
+        "envioGratis": false
+    },
+    {
+        "id": 12,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/407055-1200-auto?v=637492732285500000&width=1200&height=auto&aspect=true",
+        "marca": "Adidas Originals",
+        "nombre": "Zapatillas Adidas Originals Superstar",
+        "precio": 109999,
+        "cuotas": 3,
+        "genero": "Unisex",
+        "envioGratis": false
+    },
+    {
+        "id": 13,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1529632-1200-auto?v=638695184674070000&width=1200&height=auto&aspect=true",
+        "marca": "Adidas Originals",
+        "nombre": "Zapatillas Adidas Originals Superstar II Hombre",
+        "precio": 189999,
+        "genero": "Hombre",
+        "cuotas": 6,
+        "envioGratis": true
+    },
+    {
+        "id": 14,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1529626-1200-auto?v=638695182342070000&width=1200&height=auto&aspect=true",
+        "marca": "Adidas Originals",
+        "nombre": "Zapatillas Adidas Originals Handball Spezial Hombre",
+        "precio": 189999,
+        "genero": "Hombre",
+        "cuotas": 6,
+        "envioGratis": true
+    },
+    {
+        "id": 15,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1529383-1200-auto?v=638694326906030000&width=1200&height=auto&aspect=true",
+        "marca": "Adidas Originals",
+        "nombre": "Zapatillas Adidas Originals SL 72 RS Hombre",
+        "precio": 179999,
+        "genero": "Hombre",
+        "cuotas": 6,
+        "envioGratis": true
+    },
+    {
+        "id": 16,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1528950-1200-auto?v=638693487742000000&width=1200&height=auto&aspect=true",
+        "marca": "Adidas Originals",
+        "nombre": "Zapatillas Adidas Originals Forum Low CL Hombre",
+        "precio": 179999,
+        "cuotas": 3,
+        "genero": "Hombre",
+        "envioGratis": true
+    },
+    {
+        "id": 17,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1528932-1200-auto?v=638693483242000000&width=1200&height=auto&aspect=true",
+        "marca": "Adidas Originals",
+        "nombre": "Zapatillas Adidas Originals Forum Low CL Hombre",
+        "precio": 179999,
+        "cuotas": 3,
+        "genero": "Hombre",
+        "envioGratis": true
+    },
+    {
+        "id": 18,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1528487-1200-auto?v=638689084796930000&width=1200&height=auto&aspect=true",
+        "marca": "Adidas Originals",
+        "nombre": "Zapatillas Adidas Originals Samba OG Hombre",
+        "precio": 189999,
+        "cuotas": 6,
+        "genero": "Hombre",
+        "envioGratis": true
+    },
+    {
+        "id": 19,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1527585-1200-auto?v=638682187952370000&width=1200&height=auto&aspect=true",
+        "marca": "Adidas Originals",
+        "nombre": "Zapatillas Adidas Originals Rivalry Crepe Hombre",
+        "precio": 229999,
+        "cuotas": 6,
+        "genero": "Hombre",
+        "envioGratis": true
+    },
+    {
+        "id": 21,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1529587-1200-auto?v=638695145767330000&width=1200&height=auto&aspect=true",
+        "marca": "Adidas Originals",
+        "nombre": "Zapatillas Adidas Originals Campus 00S Mujer",
+        "precio": 179999,
+        "cuotas": 3,
+        "genero": "Mujer",
+        "envioGratis": true
+    },
+    {
+        "id": 22,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1529581-1200-auto?v=638695144415970000&width=1200&height=auto&aspect=true",
+        "marca": "Adidas Originals",
+        "nombre": "Zapatillas Adidas Originals Campus 00S Mujer",
+        "precio": 179999,
+        "cuotas": 3,
+        "genero": "Mujer",
+        "envioGratis": true
+    },
+    {
+        "id": 23,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1529569-1200-auto?v=638695134431770000&width=1200&height=auto&aspect=true",
+        "marca": "Adidas",
+        "nombre": "Zapatillas Adidas VL Court Bold Mujer",
+        "precio": 129999,
+        "cuotas": 3,
+        "genero": "Mujer",
+        "envioGratis": false
+    },
+    {
+        "id": 24,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1529608-1200-auto?v=638695152824770000&width=1200&height=auto&aspect=true",
+        "marca": "Adidas Originals",
+        "nombre": "Zapatillas Adidas Originals Handball Spezial Mujer",
+        "precio": 189999,
+        "cuotas": 6,
+        "genero": "Mujer",
+        "envioGratis": true
+    },
+    {
+        "id": 25,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1528446-1200-auto?v=638689060096530000&width=1200&height=auto&aspect=true",
+        "marca": "Adidas",
+        "nombre": "Zapatillas Adidas VL Court 3.0 Mujer",
+        "precio": 129999,
+        "cuotas": 3,
+        "genero": "Mujer",
+        "envioGratis": false
+    },
+    {
+        "id": 26,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1527311-1200-auto?v=638678933639600000&width=1200&height=auto&aspect=true",
+        "marca": "Adidas Originals",
+        "nombre": "Zapatillas Adidas Originals Rivalry Low Mujer",
+        "precio": 160999,
+        "cuotas": 3,
+        "genero": "Mujer",
+        "envioGratis": false
+    },
+    {
+        "id": 27,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1527327-1200-auto?v=638678962328330000&width=1200&height=auto&aspect=true",
+        "marca": "Adidas Originals",
+        "nombre": "Zapatillas Adidas Originals SL 72 OG Mujer",
+        "precio": 179999,
+        "cuotas": 3,
+        "genero": "Mujer",
+        "envioGratis": true
+    },
+    {
+        "id": 28,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1527275-1200-auto?v=638678871070830000&width=1200&height=auto&aspect=true",
+        "marca": "Adidas",
+        "nombre": "Zapatillas Adidas CrazyChaos 2000 Mujer",
+        "precio": 119999,
+        "cuotas": 3,
+        "genero": "Mujer",
+        "envioGratis": false
+    },
+    {
+        "id": 29,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1393161-1200-auto?v=638502550620500000&width=1200&height=auto&aspect=true",
+        "marca": "Puma",
+        "nombre": "Zapatillas Puma Suede Classic XXI Mujer",
+        "precio": 119999,
+        "cuotas": 3,
+        "genero": "Mujer",
+        "envioGratis": false
+    },
+    {
+        "id": 30,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1389950-1200-auto?v=638491410023730000&width=1200&height=auto&aspect=true",
+        "marca": "Puma",
+        "nombre": "Zapatillas Puma Cali Court Jeux Sets Mujer",
+        "precio": 140000,
+        "cuotas": 3,
+        "genero": "Mujer",
+        "envioGratis": false
+    },
+    {
+        "id": 33,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1387705-1200-auto?v=638491386364130000&width=1200&height=auto&aspect=true",
+        "marca": "Puma",
+        "nombre": "Zapatillas Puma CA Pro Mid Unisex",
+        "precio": 169999,
+        "cuotas": 3,
+        "genero": "Unisex",
+        "envioGratis": false
+    },
+    {
+        "id": 34,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1254188-1200-auto?v=638419290281700000&width=1200&height=auto&aspect=true",
+        "marca": "Nike",
+        "nombre": "Zapatillas Nike Dunk Low Mujer",
+        "precio": 219999,
+        "cuotas": 6,
+        "genero": "Mujer",
+        "envioGratis": true
+    },
+    {
+        "id": 35,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1528963-1200-auto?v=638693490890430000&width=1200&height=auto&aspect=true",
+        "marca": "Nike",
+        "nombre": "Zapatillas Nike Air Force 1 Shadow Mujer",
+        "precio": 249999,
+        "cuotas": 6,
+        "genero": "Mujer",
+        "envioGratis": true
+    },
+    {
+        "id": 36,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1528832-1200-auto?v=638690085465470000&width=1200&height=auto&aspect=true",
+        "marca": "Puma",
+        "nombre": "Zapatillas Puma Speedcat OG Unisex",
+        "precio": 169999,
+        "cuotas": 3,
+        "genero": "Unisex",
+        "envioGratis": false
+    },
+    {
+        "id": 37,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1528944-1200-auto?v=638693486392930000&width=1200&height=auto&aspect=true",
+        "marca": "Jordan",
+        "nombre": "Zapatillas Jordan Air 1 Low Mujer",
+        "precio": 209999,
+        "cuotas": 6,
+        "genero": "Mujer",
+        "envioGratis": true
+    },
+    {
+        "id": 38,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1526278-1200-auto?v=638676122831200000&width=1200&height=auto&aspect=true",
+        "marca": "Jordan",
+        "nombre": "Zapatillas Jordan Air 1 Low Mujer",
+        "precio": 219999,
+        "cuotas": 6,
+        "genero": "Mujer",
+        "envioGratis": true
+    },
+    {
+        "id": 39,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1514821-1200-auto?v=638598350200170000&width=1200&height=auto&aspect=true",
+        "marca": "Nike",
+        "nombre": "Zapatillas Nike Dunk Low Mujer",
+        "precio": 219999,
+        "cuotas": 6,
+        "genero": "Mujer",
+        "envioGratis": true
+    },
+    {
+        "id": 40,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1527773-1200-auto?v=638683066655670000&width=1200&height=auto&aspect=true",
+        "marca": "Nike",
+        "nombre": "Zapatillas Nike Air Force 1 Shadow Mujer",
+        "precio": 249999,
+        "cuotas": 6,
+        "genero": "Mujer",
+        "envioGratis": true
+    },
+    {
+        "id": 41,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1525079-1200-auto?v=638660793282970000&width=1200&height=auto&aspect=true",
+        "marca": "Adidas Originals",
+        "nombre": "Zapatillas Adidas Originals Forum Low CL Hombre",
+        "precio": 171999,
+        "genero": "Hombre",
+        "cuotas": 6,
+        "envioGratis": false
+    },
+    {
+        "id": 42,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1527333-1200-auto?v=638678966098530000&width=1200&height=auto&aspect=true",
+        "marca": "Adidas Originals",
+        "nombre": "Zapatillas Adidas Originals Gazelle Indoor Hombre",
+        "precio": 189999,
+        "genero": "Hombre",
+        "cuotas": 6,
+        "envioGratis": true
+    },
+    {
+        "id": 43,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1527253-1200-auto?v=638678860090700000&width=1200&height=auto&aspect=true",
+        "marca": "Adidas Originals",
+        "nombre": "Zapatillas Adidas Originals Handball Spezial Hombre",
+        "precio": 189999,
+        "genero": "Hombre",
+        "cuotas": 6,
+        "envioGratis": true
+    },
+    {
+        "id": 44,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1336544-1200-auto?v=638490864374200000&width=1200&height=auto&aspect=true",
+        "marca": "Adidas Originals",
+        "nombre": "Zapatillas Adidas Originals Adi2000 Hombre",
+        "precio": 189999,
+        "genero": "Hombre",
+        "cuotas": 6,
+        "envioGratis": false
+    },
+    {
+        "id": 45,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1526424-1200-auto?v=638676417024600000&width=1200&height=auto&aspect=true",
+        "marca": "Puma",
+        "nombre": "Zapatillas Puma CA Pro Classic ADP Hombre",
+        "precio": 144999,
+        "genero": "Hombre",
+        "cuotas": 6,
+        "envioGratis": false
+    },
+    {
+        "id": 46,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1427457-1200-auto?v=638491811288470000&width=1200&height=auto&aspect=true",
+        "marca": "Puma",
+        "nombre": "Zapatillas Puma RS-X 3D Hombre",
+        "precio": 83999,
+        "genero": "Hombre",
+        "cuotas": 6,
+        "envioGratis": false
+    },
+    {
+        "id": 47,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1501243-1200-auto?v=638550153576900000&width=1200&height=auto&aspect=true",
+        "marca": "Puma",
+        "nombre": "Zapatillas Puma Slipstream Hombre",
+        "precio": 116999,
+        "genero": "Hombre",
+        "cuotas": 6,
+        "envioGratis": false
+    },
+    {
+        "id": 48,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1369421-1200-auto?v=638491196106400000&width=1200&height=auto&aspect=true",
+        "marca": "Puma",
+        "nombre": "Zapatillas Puma Slipstream LTH Hombre",
+        "precio": 97499,
+        "genero": "Hombre",
+        "cuotas": 6,
+        "envioGratis": false
+    },
+    {
+        "id": 49,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1516442-1200-auto?v=638612373672630000&width=1200&height=auto&aspect=true",
+        "marca": "Adidas",
+        "nombre": "Zapatillas Adidas Court 24 Hombre",
+        "precio": 119999,
+        "genero": "Hombre",
+        "cuotas": 6,
+        "envioGratis": false
+    },
+    {
+        "id": 50,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1460970-1200-auto?v=638513070530030000&width=1200&height=auto&aspect=true",
+        "marca": "Adidas",
+        "nombre": "Zapatillas Adidas Midcity Low Hombre",
+        "precio": 124999,
+        "genero": "Hombre",
+        "cuotas": 6,
+        "envioGratis": false
+    },
+    {
+        "id": 51,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1521849-1200-auto?v=638646000443400000&width=1200&height=auto&aspect=true",
+        "marca": "Adidas",
+        "nombre": "Zapatillas Adidas Grand Court Alpha Hombre",
+        "precio": 129999,
+        "genero": "Hombre",
+        "cuotas": 6,
+        "envioGratis": false
+    },
+    {
+        "id": 52,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1260216-1200-auto?v=638427557874500000&width=1200&height=auto&aspect=true",
+        "marca": "Adidas",
+        "nombre": "Zapatillas Adidas Grand Court Alpha Hombre",
+        "precio": 129999,
+        "genero": "Hombre",
+        "cuotas": 6,
+        "envioGratis": false
+    },
+    {
+        "id": 53,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1529357-1200-auto?v=638694324041400000&width=1200&height=auto&aspect=true",
+        "marca": "Nike",
+        "nombre": "Zapatillas Nike Air Max SC Hombre",
+        "precio": 149999,
+        "genero": "Hombre",
+        "cuotas": 6,
+        "envioGratis": false
+    },
+    {
+        "id": 54,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1461704-1200-auto?v=638512846994930000&width=1200&height=auto&aspect=true",
+        "marca": "Nike",
+        "nombre": "Zapatillas Nike Air Force 1 07",
+        "precio": 219999,
+        "genero": "Hombre",
+        "cuotas": 6,
+        "envioGratis": true
+    },
+    {
+        "id": 55,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1528867-1200-auto?v=638690779391800000&width=1200&height=auto&aspect=true",
+        "marca": "Nike",
+        "nombre": "Zapatillas Nike P-6000 Hombre",
+        "precio": 199999,
+        "genero": "Hombre",
+        "cuotas": 6,
+        "envioGratis": true
+    },
+    {
+        "id": 56,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1528102-1200-auto?v=638684987601900000&width=1200&height=auto&aspect=true",
+        "marca": "Nike",
+        "nombre": "Zapatillas Nike Cortez Textile Hombre",
+        "precio": 159999,
+        "genero": "Hombre",
+        "cuotas": 6,
+        "envioGratis": false
+    },
+    {
+        "id": 57,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1496002-1200-auto?v=638549377150170000&width=1200&height=auto&aspect=true",
+        "marca": "Nike",
+        "nombre": "Zapatillas Nike Air More Uptempo 96 Hombre",
+        "precio": 344999,
+        "genero": "Hombre",
+        "cuotas": 6,
+        "envioGratis": true
+    },
+    {
+        "id": 58,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1524544-1200-auto?v=638657980788530000&width=1200&height=auto&aspect=true",
+        "marca": "Nike",
+        "nombre": "Zapatillas Nike Air Force 1 '07 Hombre",
+        "precio": 219999,
+        "genero": "Hombre",
+        "cuotas": 6,
+        "envioGratis": true
+    },
+    {
+        "id": 59,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1525519-1200-auto?v=638666027171830000&width=1200&height=auto&aspect=true",
+        "marca": "Nike",
+        "nombre": "Zapatillas Nike Air Force 1 '07 Hombre",
+        "precio": 219999,
+        "genero": "Hombre",
+        "cuotas": 6,
+        "envioGratis": true
+    },
+    {
+        "id": 60,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1426254-1200-auto?v=638491798210300000&width=1200&height=auto&aspect=true",
+        "marca": "Nike",
+        "nombre": "Zapatillas Nike Air Force 1 Mid '07 LV8 Hombre",
+        "precio": 274999,
+        "genero": "Hombre",
+        "cuotas": 6,
+        "envioGratis": false
+    },
+    {
+        "id": 61,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1336073-1200-auto?v=638508659333200000&width=1200&height=auto&aspect=true",
+        "marca": "Jordan",
+        "nombre": "Zapatillas Jordan Air 11 Retro IE Hombre",
+        "precio": 339999,
+        "genero": "Hombre",
+        "cuotas": 6,
+        "envioGratis": true
+    },
+    {
+        "id": 62,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1522855-1200-auto?v=638648749956570000&width=1200&height=auto&aspect=true",
+        "marca": "Jordan",
+        "nombre": "Zapatillas Jordan Spizike Low Hombre",
+        "precio": 299999,
+        "genero": "Hombre",
+        "cuotas": 6,
+        "envioGratis": true
+    },
+    {
+        "id": 63,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1423396-1200-auto?v=638550052755530000&width=1200&height=auto&aspect=true",
+        "marca": "Jordan",
+        "nombre": "Zapatillas Jordan Air 1 Low Hombre",
+        "precio": 219999,
+        "genero": "Hombre",
+        "cuotas": 6,
+        "envioGratis": true
+    },
+    {
+        "id": 64,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/1523351-1200-auto?v=638651915743000000&width=1200&height=auto&aspect=true",
+        "marca": "Jordan",
+        "nombre": "Zapatillas Jordan Air 1 Zoom CMFT 2 Hombre",
+        "precio": 195999,
+        "genero": "Hombre",
+        "cuotas": 6,
+        "envioGratis": true
+    }
+]

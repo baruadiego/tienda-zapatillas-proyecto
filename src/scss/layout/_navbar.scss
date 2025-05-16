@@ -1,0 +1,56 @@
+@use 'base/variables' as v;
+@use 'base/mixins' as m;
+
+.custom-navbar{
+    background-color: rgb(37, 37, 37) !important;
+    .navbar-toggler {
+        border-color: transparent;
+        &:focus,
+        &:active {
+            border-color: rgb(255, 255, 255);
+            outline: none;
+        }
+
+        .navbar-toggler-icon {
+            background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='white' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+        }
+    }
+}
+
+.custom-navbar .navbar-nav {
+    margin: 0 auto; /* Centra horizontalmente */
+    display: flex;
+    justify-content: center; /* Centra los elementos hijos */
+}
+
+.custom-navbar .nav-link {
+    color: #ffffff; /* Color normal */
+    transition: color 0.3s ease; /* Animación suave */
+    font-size: 1.4rem;
+    &:hover {
+        color: #fbc827; /* Color cuando pasas el mouse */
+    }
+
+
+}
+.enlaces{
+    @include m.contenedor;
+    @include m.tablet{
+        display: flex;
+        justify-content: center;
+        a{
+            display: inline;
+        }
+    }
+    
+    a{
+        display: block;
+        color: v.$blanco;
+        font-size: 1.5rem;
+        text-align: center;
+        padding: 1rem;
+        &:hover{
+            color: v.$amarillo;
+        }
+    }
+}

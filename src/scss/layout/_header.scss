@@ -1,0 +1,25 @@
+@use 'base/variables' as v;
+@use 'base/mixins' as m;
+
+.header {
+    background-color: rgb(37, 37, 37);
+    .contenido-header {
+        p{
+            color: v.$blanco;
+            font-size: 1.2rem;
+            margin: 0;
+            text-align: center;
+        }
+        padding: .5rem;
+
+    }
+    position: fixed; 
+    z-index: 997;
+    svg {
+        cursor: pointer;
+    }
+    top: 0;
+    left: 0;
+    width: 100%;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
